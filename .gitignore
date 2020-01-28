@@ -1,0 +1,11 @@
+### IntelliJ IDEA ###
+.idea
+*.iml
+
+### MAVEN ###
+.mvn/
+mvnw
+mvnw.cmd
+
+### PROJECT ###
+target/
